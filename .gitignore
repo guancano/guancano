@@ -1,0 +1,6 @@
+# ignore go files
+go.sum
+
+# ignore project files
+*.iml
+.idea
